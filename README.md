@@ -1,8 +1,6 @@
 # IA_Final_Pipline
 
-Final Project
-
-Description
+Final Project Description
 
 Step 1 - Define the problem:
 
